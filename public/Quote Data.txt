@@ -1,0 +1,59 @@
+[
+  {
+    "id": "q1-alpha-4c3e",
+    "quoteName": "Quote #1",
+    "itemName": "Brenton 7-Piece Patio Set",
+    "itemDescription": "A luxurious 7-piece outdoor sectional set, perfect for patios and gardens. Includes all-weather wicker, plush cushions, and a durable aluminum frame. Seats up to 6 people comfortably and is designed for year-round outdoor use.",
+    "quoteDate": "2025-09-15T00:00:00Z",
+    "committedFlag": false,
+    "supplier": { "name": "Apex Imports" },
+    "fobPort": { "countryOfOrigin": "Vietnam" },
+    "costing": {
+      "firstCost": 1320.00,
+      "componentMaterialCosting": [
+        { "materialDescription": "Aluminum Frame", "costPerSellingUnit": 300.00 },
+        { "materialDescription": "All-Weather Wicker", "costPerSellingUnit": 275.50 },
+        { "materialDescription": "Cushions & Fabric", "costPerSellingUnit": 410.00 }
+      ]
+    },
+    "clubCosting": { "retailPrice": 1999.99 }
+  },
+  {
+    "id": "q2-beta-8a1b",
+    "quoteName": "Quote #2",
+    "itemName": "Halifax 4-Piece Conversation Set",
+    "itemDescription": "This 4-piece conversation set creates a perfect outdoor gathering spot. It features two chairs, a loveseat, and a coffee table. The set is built with a rustproof aluminum frame and includes deep-seating cushions for maximum comfort.",
+    "quoteDate": "2025-09-12T00:00:00Z",
+    "committedFlag": true,
+    "supplier": { "name": "Apex Imports" },
+    "fobPort": { "countryOfOrigin": "Vietnam" },
+    "costing": {
+      "firstCost": 1625.50,
+      "componentMaterialCosting": [
+        { "materialDescription": "Aluminum Frame", "costPerSellingUnit": 450.00 },
+        { "materialDescription": "Decorative Rope", "costPerSellingUnit": 420.25 },
+        { "materialDescription": "Cushions & Fabric", "costPerSellingUnit": 415.00 }
+      ]
+    },
+    "clubCosting": { "retailPrice": 2699.99 }
+  },
+  {
+    "id": "q3-gamma-9f2d",
+    "quoteName": "Quote #3",
+    "itemName": "Avalon 4-Piece Set with Firepit",
+    "itemDescription": "The Avalon collection brings warmth and style to your outdoor space. This set includes a sofa, two armchairs, and a stylish firepit table. The furniture is crafted from durable, lightweight aluminum, making it both sturdy and easy to arrange.",
+    "quoteDate": "2025-09-10T00:00:00Z",
+    "committedFlag": false,
+    "supplier": { "name": "Global Furnishings Co." },
+    "fobPort": { "countryOfOrigin": "China" },
+    "costing": {
+      "firstCost": 995.00,
+      "componentMaterialCosting": [
+        { "materialDescription": "Aluminum Frame", "costPerSellingUnit": 425.00 },
+        { "materialDescription": "Steel Components", "costPerSellingUnit": 35.00 },
+        { "materialDescription": "Cushions & Fabric", "costPerSelling_unit": 340.50 }
+      ]
+    },
+    "clubCosting": { "retailPrice": 1999.99 }
+  }
+]
